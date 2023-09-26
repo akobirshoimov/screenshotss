@@ -1,0 +1,3 @@
+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
+
+git remote set-url origin https://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@github.com/akobirshoimov/screenshotss
